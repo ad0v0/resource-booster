@@ -21,6 +21,6 @@
 - [State of JS](https://2021.stateofjs.com) – 2021 results
 - [State of CSS](https://2021.stateofcss.com/en-US/) – 2021 results
 
-## Humor
+## Fun
 
 - [Code diseases](https://nicothin.pro/diseases-coder/)
